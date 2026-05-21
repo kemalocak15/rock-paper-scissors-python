@@ -11,7 +11,7 @@ Kullanıcı bilgisayara karşı oynar ve oyun, kullanıcı çıkış yapmak iste
 
 ## Kullanılan Teknolojiler
 * Python 3.12.8
-* `random` kütüphanesi (Bilgisayarın rastgele seçim yapması için)
+* `random` kutuphanesi (Bilgisayarın rastgele seçim yapması için)
 
 ##  Nasıl Çalıştırılır?
 Bilgisayarınızda Python yüklüyse, terminal veya komut satırını açıp dosyanın bulunduğu dizine gidin ve aşağıdaki komutu çalıştırın:
